@@ -8,7 +8,13 @@ COLORS = {
     'purple' : (139, 20, 255),
     'yellow' : (255, 255, 30),
     'pink' : (252, 15, 192),
-    'sky blue' : (117, 187, 253),
+    'palegreen': (152, 251, 152),
+    'mediumslateblue': (123, 104, 238),
+    'thistle': (216, 191, 216),
+    'skyblue' : (117, 187, 253),
+    'lightseagreen' : (32, 178, 170),
+    'springgreen' : (0, 255, 127),
+    'crimson' : (220, 20, 60), 
     'orange' : (255, 128, 0),
     }
 def receive_sequences():
