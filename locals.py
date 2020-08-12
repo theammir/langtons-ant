@@ -4,6 +4,7 @@ ENG = 'Steps: '
 EN = ENG
 
 JP = '手順：'
-JAP, JPN = JP
+JAP = JP
+JPN = JP
 
 UKR = 'Кроків: '
