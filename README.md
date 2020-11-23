@@ -4,10 +4,10 @@
 * ### Info
     This is simple Langton's ant simulation written by TheAmmiR and IceFox-L.
 * ### Rules
-    There are grid. Each cell of The Grid can be filled in any color.
-    The Grid is populated by ant. Ant is implemented as one cell on The Grid.
+    There is a grid. Each cell of The Grid can be filled in any color.
+    The Grid is populated by ant. Ant is implemented as one cell of The Grid.
     Each move the ant fills the cell he's standing on with next declared color and turns left or right.
-    If cell is filled with last set color, ant fills it with default.
+    If cell is filled with last set color, the ant fills it with default one.
 * ### Running
     * First, you have to open `colors_config.txt` and fill it. The template is already in the file - it looks like
         ```fix
